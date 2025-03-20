@@ -1,0 +1,152 @@
+[ {
+  "name" : "Gautam",
+  "password" : "gautam@123",
+  "hashedPassword" : "Z2F1dGFtQDEyMw==",
+  "ticketsBooked" : [ {
+    "ticketId" : "101010",
+    "userId" : "gautam101",
+    "source" : "Jaipur",
+    "destination" : "Sikar",
+    "dateOfTravel" : "2021-01-01",
+    "train" : {
+      "trainId" : "101",
+      "trainNo" : "19807",
+      "seats" : [ [ 1, 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+      "stationTimes" : {
+        "Sikar" : "12:00",
+        "Kota" : "10:00",
+        "Churu" : "14:00",
+        "Jaipur" : "11:00",
+        "Loharu" : "13:00"
+      },
+      "stations" : [ "Kota", "Jaipur", "Sikar", "Loharu", "Churu" ]
+    }
+  }, {
+    "ticketId" : "202020",
+    "userId" : "gautam101",
+    "source" : "Kota",
+    "destination" : "Jaipur",
+    "dateOfTravel" : "2021-05-01",
+    "train" : {
+      "trainId" : "101",
+      "trainNo" : "19807",
+      "seats" : [ [ 1, 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+      "stationTimes" : {
+        "Sikar" : "12:00",
+        "Kota" : "10:00",
+        "Churu" : "14:00",
+        "Jaipur" : "11:00",
+        "Loharu" : "13:00"
+      },
+      "stations" : [ "Kota", "Jaipur", "Sikar", "Loharu", "Churu" ]
+    }
+  }, {
+    "ticketId" : "e2d0b1b8-5489-47e7-a5fb-7fc1082e254c",
+    "userId" : "gautam101",
+    "source" : "Sikar",
+    "destination" : "Loharu",
+    "dateOfTravel" : "2024-05-06",
+    "train" : {
+      "trainId" : "101",
+      "trainNo" : "19807",
+      "seats" : [ [ 1, 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+      "stationTimes" : {
+        "Sikar" : "12:00",
+        "Kota" : "10:00",
+        "Churu" : "14:00",
+        "Jaipur" : "11:00",
+        "Loharu" : "13:00"
+      },
+      "stations" : [ "Kota", "Jaipur", "Sikar", "Loharu", "Churu" ]
+    }
+  }, {
+    "ticketId" : "538682",
+    "userId" : "gautam101",
+    "source" : "Jaipur",
+    "destination" : "Sikar",
+    "dateOfTravel" : "2024-05-06",
+    "train" : {
+      "trainId" : "101",
+      "trainNo" : "19807",
+      "seats" : [ [ 1, 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+      "stationTimes" : {
+        "Sikar" : "12:00",
+        "Kota" : "10:00",
+        "Churu" : "14:00",
+        "Jaipur" : "11:00",
+        "Loharu" : "13:00"
+      },
+      "stations" : [ "Kota", "Jaipur", "Sikar", "Loharu", "Churu" ]
+    }
+  } ],
+  "userId" : "gautam101"
+}, {
+  "name" : "HanuMan Singh",
+  "password" : "Maruti@123",
+  "hashedPassword" : "TWFydXRpQDEyMw==",
+  "ticketsBooked" : [ {
+    "ticketId" : "110110110",
+    "userId" : "Hanu101",
+    "source" : "Jaipur",
+    "destination" : "Churu",
+    "dateOfTravel" : "2020-03-05",
+    "train" : {
+      "trainId" : "101",
+      "trainNo" : "19807",
+      "seats" : [ [ 1, 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+      "stationTimes" : {
+        "Sikar" : "12:00",
+        "Kota" : "10:00",
+        "Churu" : "14:00",
+        "Jaipur" : "11:00",
+        "Loharu" : "13:00"
+      },
+      "stations" : [ "Kota", "Jaipur", "Sikar", "Loharu", "Churu" ]
+    }
+  }, {
+    "ticketId" : "120120120",
+    "userId" : "Hanu101",
+    "source" : "Jaipur",
+    "destination" : "Loharu",
+    "dateOfTravel" : "2024-03-20",
+    "train" : {
+      "trainId" : "101",
+      "trainNo" : "19807",
+      "seats" : [ [ 1, 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+      "stationTimes" : {
+        "Sikar" : "12:00",
+        "Kota" : "10:00",
+        "Churu" : "14:00",
+        "Jaipur" : "11:00",
+        "Loharu" : "13:00"
+      },
+      "stations" : [ "Kota", "Jaipur", "Sikar", "Loharu", "Churu" ]
+    }
+  }, {
+    "ticketId" : "130130130",
+    "userId" : "Hanu101",
+    "source" : "Sikar",
+    "destination" : "Loharu",
+    "dateOfTravel" : "2024-03-20",
+    "train" : {
+      "trainId" : "101",
+      "trainNo" : "19807",
+      "seats" : [ [ 1, 1, 0, 0, 0, 0 ], [ 1, 1, 0, 0, 0, 0 ], [ 1, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ], [ 0, 0, 0, 0, 0, 0 ] ],
+      "stationTimes" : {
+        "Sikar" : "12:00",
+        "Kota" : "10:00",
+        "Churu" : "14:00",
+        "Jaipur" : "11:00",
+        "Loharu" : "13:00"
+      },
+      "stations" : [ "Kota", "Jaipur", "Sikar", "Loharu", "Churu" ]
+    }
+  } ],
+  "userId" : "Hanu101"
+}, {
+  "name" : "Rahul",
+  "password" : "Rahul123",
+  "hashedPassword" : "UmFodWwxMjM=",
+  "ticketsBooked" : null,
+  "userId" : "29e96cbf-7807-44d2-b39b-2ee1e9c30bf1"
+} ]
