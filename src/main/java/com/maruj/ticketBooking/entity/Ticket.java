@@ -14,7 +14,7 @@ public class Ticket {
     private String destination;
     private String dateOfTravel;
     private Train train;
-
+    //lets check if we are able to send this as well in there
     public Ticket(){
         this.ticketId = String.valueOf(100_000 + new Random().nextInt(900_000));
     }
